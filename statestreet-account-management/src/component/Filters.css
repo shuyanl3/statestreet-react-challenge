@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,500);
+
+.filter-box {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: left;
+    background-color: #F1F1F1;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.filter-box h3 {
+    font-weight: 500;
+}

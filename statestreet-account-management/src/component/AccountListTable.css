@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,500);
+
+tr {
+    text-align: left;
+}
+
+td {
+    padding-left: 30px;
+}
+
+.content {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}

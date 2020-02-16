@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,500);
+
+.detail-page {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    font-size: xx-large;
+}
+
+.header span {
+    padding-right: 20px;
+}
+
+table {
+    padding-top: 20px;
+    text-align: left;
+}
+
+td {
+    padding-left: 0;
+    padding-right: 20px;
+}
