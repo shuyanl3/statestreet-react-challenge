@@ -9,3 +9,4 @@
 
 ### Notes:
 - There might be a `Maximum call stack size exceeded` error showing in the console when starting the application. I believe it is because it loads too much data.
+- The structure of transaction detail page would be different if we do an actual data fetching.
